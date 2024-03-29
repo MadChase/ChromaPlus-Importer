@@ -1,5 +1,5 @@
 
-Imports Beat Saber Chroma+ Changes based on a .dat that has the environment and materials and puts it in a diff.dat custom data
+Imports Beat Saber Chroma+ Changes based on a .dat that holds them and puts it in a difficulty.dat custom data.
 
  #
 
