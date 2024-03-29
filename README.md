@@ -15,4 +15,6 @@ Then download The offical Python plugin for VSCode here: https://marketplace.vis
 
 How to use:
 
-Name the file with env changes "env.dat" and the diff file you want to add it to "ExpertPlusStandard.dat" or change the names of the file in: merge_dat_files("ExpertPlusStandard.dat", "env.dat")
+-Put the skript in the folder with you difficulty.dat file 
+
+-Name the file with env changes "env.dat" and the diff file you want to add it to "ExpertPlusStandard.dat" or change the names of the file in: merge_dat_files("ExpertPlusStandard.dat", "env.dat")
