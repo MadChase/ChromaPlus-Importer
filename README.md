@@ -15,8 +15,10 @@ How to Run the skript:
 
 How to use:
 
--Put the skript in the folder with you difficulty.dat and your Environment.dat file 
+NOTE: I HIGHLY suggest making a backup of you nap before running any script.  
 
--Name the file with env changes "env.dat" and the diff file you want to add it to "ExpertPlusStandard.dat" or change the names of the file in: merge_dat_files("ExpertPlusStandard.dat", "env.dat")  
+-Put the skript in the folder with you difficulty.dat and your Environment.dat file  
+
+-Name the file with env changes "env.dat" and the diff file you want to add it to "ExpertPlusStandard.dat" or change the 2 names in the file that say "ExpertPlusStandard.dat" to your file name.  
 
 -Then open up the folder in VSCode and hit the Run button in the top left corner while the skript is open 
