@@ -15,7 +15,7 @@ How to Run the skript:
 
 How to use:
 
-NOTE: I HIGHLY suggest making a backup of you nap before running any script.  
+NOTE: I HIGHLY suggest making a backup of you map before running any script.  
 
 -Put the skript in the folder with you difficulty.dat and your Environment.dat file  
 
