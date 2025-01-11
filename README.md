@@ -28,8 +28,8 @@ NOTE: I HIGHLY suggest making a backup of you map before running any script.
 How to Format the env.dat:
 
 -It needs to stay in this format with "xxxxxx" representing the env changes (side note, its untested but might work with anything inside the brackets as long as its in this format):   
-{
-    "customData":{
-             environment": [xxxxxx]
-     }
+{   
+    "customData":{   
+             environment": [xxxxxx]   
+     }   
 }
