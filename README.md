@@ -8,12 +8,12 @@ How to Run the skript:
 -Download VSCode from here: https://code.visualstudio.com/download    
 
 then go with which language you want:   
-     
+     &nbsp;<br>
 
 **Java** **Scrpit** **(Recommended):**
 
 -Download The Code runner: https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner     
-     
+     &nbsp;<br>
 
 **Pyhton:**    
 
