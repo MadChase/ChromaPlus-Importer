@@ -39,5 +39,5 @@ NOTE: I HIGHLY suggest making a backup of you map before running any script.
 
 # 
 
-How to Format the env.dat:
+**How** **to** **Format** **the** **env.dat:**     
 https://github.com/Aeroluna/Heck/wiki/EnvironmentJSONS
