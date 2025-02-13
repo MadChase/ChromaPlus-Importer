@@ -7,11 +7,13 @@ How to Run the skript:
 
 -Download VSCode from here: https://code.visualstudio.com/download    
 
-then go with which language you want:     
+then go with which language you want:   
+     
 
 <p style="font-size: 24px;">**Java Scrpit (Recommended):**</p> 
 
 -Download The Code runner: https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner     
+     
 
 **Pyhton:**    
 
