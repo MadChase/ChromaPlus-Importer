@@ -8,10 +8,10 @@ How to Run the skript:
 -Download VSCode from here: https://code.visualstudio.com/download  
 then go with which language you want:     
 
-Java Scrpit (Recommended):    
+**Java Scrpit (Recommended):**    
 -Download The Code runner: https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner     
 
-Pyhton:    
+**Pyhton:**    
 -Then Download Python form here: https://www.python.org/downloads/  
 
 -Then download The offical Python plugin for VSCode here: https://marketplace.visualstudio.com/items?itemName=ms-python.python     
