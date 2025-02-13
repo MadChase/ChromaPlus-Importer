@@ -1,4 +1,5 @@
-
+NOTE: Do **NOT** use this script on peoples user env's that they did not give permistion for. 
+#
 Imports Beat Saber Chroma+ Changes based on a .dat that holds them and puts it in a difficulty.dat custom data.
 
  #
