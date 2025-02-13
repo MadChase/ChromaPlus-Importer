@@ -3,7 +3,7 @@ Imports Beat Saber Chroma+ Changes based on a .dat that holds them and puts it i
 
  #
 
-How to Run the skript:
+**How** **to** **Run** **the** **skript:**     
 
 -Download VSCode from here: https://code.visualstudio.com/download    
 
@@ -26,7 +26,7 @@ then go with which language you want:
 
 # 
 
-How to use:     
+**How** **to** **use:**     
 
 
 NOTE: I HIGHLY suggest making a backup of you map before running any script.  
