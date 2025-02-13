@@ -9,7 +9,7 @@ How to Run the skript:
 
 then go with which language you want:     
 
-**Java Scrpit (Recommended):**    
+<p style="font-size: 16px;">**Java Scrpit (Recommended):**</p> 
 
 -Download The Code runner: https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner     
 
