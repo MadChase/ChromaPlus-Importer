@@ -6,10 +6,18 @@ Imports Beat Saber Chroma+ Changes based on a .dat that holds them and puts it i
 How to Run the skript:
 
 -Download VSCode from here: https://code.visualstudio.com/download  
+then go with which language you want:     
 
+Java Scrpit (Recommended):    
+-Download The Code runner: https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner     
+
+Pyhton:    
 -Then Download Python form here: https://www.python.org/downloads/  
 
--Then download The offical Python plugin for VSCode here: https://marketplace.visualstudio.com/items?itemName=ms-python.python
+-Then download The offical Python plugin for VSCode here: https://marketplace.visualstudio.com/items?itemName=ms-python.python     
+
+-Then download The Code runner: https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner   
+     
 
 # 
 
@@ -26,11 +34,4 @@ NOTE: I HIGHLY suggest making a backup of you map before running any script.
 # 
 
 How to Format the env.dat:
-
--It needs to stay in this format with "xxxxxx" representing the env changes (side note, its untested but might work with anything inside the brackets as long as its in this format):   
-
->{   
->&nbsp;&nbsp;&nbsp;&nbsp;"customData":{   
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"environment": [xxxxxx]   
->&nbsp;&nbsp;&nbsp;&nbsp;}   
->}
+https://github.com/Aeroluna/Heck/wiki/EnvironmentJSONS
